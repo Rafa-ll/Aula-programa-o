@@ -1,5 +1,5 @@
 using System;
-classe program{
+class program{
   public static void Main(){
   
   Console.WriteLine("Olá Mundo");
