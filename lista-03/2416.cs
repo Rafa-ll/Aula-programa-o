@@ -2,12 +2,12 @@ using System;
 class Program{
   public static void Main(){
 
-    string e = Console.ReadLine();
-    string[] t = e.Split();
-    int a = int.Parse(b[0]);
-    int c = int.Parse(b[1]);
-    int d = c%d;
-    Console.WriteLine(d);
+    string a = Console.ReadLine();
+    string[] b = a.Split();
+    int c = int.Parse(b[0]);
+    int d = int.Parse(b[1]);
+    int divisao = c%d;
+    Console.WriteLine(divisao);
     
   }
 }
